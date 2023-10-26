@@ -837,8 +837,8 @@ function confirmRestart() {
 			align-items: center;
 			justify-content: flex-start;
 			label {
-				// display: none;
-				font-size: 1rem;
+				display: none;
+				// font-size: 1rem;
 			}
 			input {
 				text-align: center;
